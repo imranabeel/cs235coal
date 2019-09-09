@@ -14,7 +14,8 @@
   
   <img src="https://octodex.github.com/images/stormtroopocat.jpg" width="200" height="200" />
   ""Don't panic: We will guide you thoughout the course."" 
-
+<a href="https://2.bp.blogspot.com/-oDMOD6pVAGM/Wat-um2m9pI/AAAAAAAAGrQ/pUqP_jJXBrcZ6hzRPXEYXqvoghw1QCJ5QCLcBGAs/s1600/ice_screenshot_20170903-091828.jpeg" rel="">![Foo](
+https://2.bp.blogspot.com/-oDMOD6pVAGM/Wat-um2m9pI/AAAAAAAAGrQ/pUqP_jJXBrcZ6hzRPXEYXqvoghw1QCJ5QCLcBGAs/s1600/ice_screenshot_20170903-091828.jpeg)</a>
  ----
 # TinkerCAD:
 
@@ -25,6 +26,8 @@ You can join the class using the instructions and class code below.
       + Go to www.tinkercad.com
       + Tap or click the Join Class button
       + Enter the class code shown here
+        >>> BSCS8A: ...
+        >>> BSCS8B: ...
         >>> BSCS8C: VKWJQ71FI2DI
       + Enter your Full name as per CMS
       + Select circuits in drop down menu if not selected
