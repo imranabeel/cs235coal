@@ -44,8 +44,8 @@ https://github.com/tinkerslab/cs235coal/blob/master/labs%20&%20practical%20work/
 
 ____
 # Hardware: No. No. No.
-+ Start going through the lessons. (You won't understand the code at first. but we are planning to explain that in labs.)
-+ # We acknowledge, Its challenging to work with hardware but aren't you curious about it?
++ Start going through the lessons. (You may not understand the code at first. but don't panic we are planning to explain that in labs.)
++ # We know, Its challenging to work with hardware but aren't you curious about it?
 
 <a href="https://www.theschoolrun.com/sites/theschoolrun.com/files/article_images/best_electronics_sets_for_children.jpg" rel="">![Foo](
 https://www.theschoolrun.com/sites/theschoolrun.com/files/article_images/best_electronics_sets_for_children.jpg)</a>
