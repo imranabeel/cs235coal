@@ -38,6 +38,7 @@ ____
 https://github.com/tinkerslab/cs235coal/blob/master/labs%20&%20practical%20work/select%20circuit.png?raw=true)</a>
 
 ____
+# Hardware: No. No. No.
 + Start going through the lessons. (You won't understand the code at first. but we are planning to explain that in labs.)
 + We acknowledge, Its challenging to work with hardware but aren't you curious about it? Because they are....
 
