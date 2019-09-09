@@ -30,7 +30,11 @@ You can join the class using the instructions and class code below.
         >>> BSCS8C: VKWJQ71FI2DI
       + Enter your Full name as per CMS
       + Select circuits in drop down menu if not selected
-____      
+____   
+<a href="https://www.tinkercad.com › things › eLrPl4KgIF1-servo-motor" rel="">![Foo](
+https://github.com/tinkerslab/cs235coal/blob/master/labs%20&%20practical%20work/tinkercad%20servo%20animatin.gif?raw=truee)</a>
+
+_____
 <a href="https://www.tinkercad.com/learn/circuits/learning" rel="">![Foo](
 https://github.com/tinkerslab/cs235coal/blob/master/labs%20&%20practical%20work/bscs8c%20tinkercad%20code.png?raw=true)</a>
 ____
