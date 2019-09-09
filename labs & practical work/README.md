@@ -33,7 +33,7 @@ https://2.bp.blogspot.com/-oDMOD6pVAGM/Wat-um2m9pI/AAAAAAAAGrQ/pUqP_jJXBrcZ6hzRP
 
 ____
 + Start going through the lessons. (You won't understand the code at first. but we are planning to explain that in labs.)
-+ We acknowledge, Its challenging to work with hardware but aren't you curious about it?
++ We acknowledge, Its challenging to work with hardware but aren't you curious about it? Because they are....
 
 <a href="https://www.theschoolrun.com/sites/theschoolrun.com/files/article_images/best_electronics_sets_for_children.jpg" rel="">![Foo](
 https://www.theschoolrun.com/sites/theschoolrun.com/files/article_images/best_electronics_sets_for_children.jpg)</a>
