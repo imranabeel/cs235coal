@@ -35,6 +35,6 @@ ____
 + Start going through the lessons. (You won't understand the code at first. but we are planning to explain that in labs.)
 + We acknowledge, Its challenging to work with hardware but aren't you curious about it?
 
-<a href="https://cdn2.damnfunnypictures.com/24db8edd97a4fdf0d546ad00f4168574.jpg" rel="">![Foo](
-https://cdn2.damnfunnypictures.com/24db8edd97a4fdf0d546ad00f4168574.jpg)</a>
+<a href="https://www.theschoolrun.com/sites/theschoolrun.com/files/article_images/best_electronics_sets_for_children.jpg" rel="">![Foo](
+https://www.theschoolrun.com/sites/theschoolrun.com/files/article_images/best_electronics_sets_for_children.jpg)</a>
 
