@@ -27,8 +27,9 @@ You can join the class using the instructions and class code below.
       + Enter the class code shown here
         >>> BSCS8A: ...
         >>> BSCS8B: ...
-        >>> BSCS8C: VKWJQ71FI2DI
-      + Enter your Full name as per CMS
+        >>> BSCS8C: ...
+        (Class codes will be uploaded soon.)
+      + Enter your Full name as per CMS.
       + Select circuits in drop down menu if not selected
 ____   
 <a href="https://www.tinkercad.com › things › eLrPl4KgIF1-servo-motor" rel="">![Foo](
