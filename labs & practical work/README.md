@@ -28,10 +28,13 @@ You can join the class using the instructions and class code below.
         >>> BSCS8C: VKWJQ71FI2DI
       + Enter your Full name as per CMS
       + Select circuits in drop down menu if not selected
+<a href="https://2.bp.blogspot.com/-oDMOD6pVAGM/Wat-um2m9pI/AAAAAAAAGrQ/pUqP_jJXBrcZ6hzRPXEYXqvoghw1QCJ5QCLcBGAs/s1600/ice_screenshot_20170903-091828.jpeg" rel="">![Foo](
+https://2.bp.blogspot.com/-oDMOD6pVAGM/Wat-um2m9pI/AAAAAAAAGrQ/pUqP_jJXBrcZ6hzRPXEYXqvoghw1QCJ5QCLcBGAs/s1600/ice_screenshot_20170903-091828.jpeg)</a>
 
 ____
 + Start going through the lessons. (You won't understand the code at first. but we are planning to explain that in labs.)
 + We acknowledge, Its challenging to work with hardware but aren't you curious about it?
-      
-<a href="https://2.bp.blogspot.com/-oDMOD6pVAGM/Wat-um2m9pI/AAAAAAAAGrQ/pUqP_jJXBrcZ6hzRPXEYXqvoghw1QCJ5QCLcBGAs/s1600/ice_screenshot_20170903-091828.jpeg" rel="">![Foo](
-https://2.bp.blogspot.com/-oDMOD6pVAGM/Wat-um2m9pI/AAAAAAAAGrQ/pUqP_jJXBrcZ6hzRPXEYXqvoghw1QCJ5QCLcBGAs/s1600/ice_screenshot_20170903-091828.jpeg)</a>
+
+<a href="https://cdn2.damnfunnypictures.com/24db8edd97a4fdf0d546ad00f4168574.jpg" rel="">![Foo](
+https://cdn2.damnfunnypictures.com/24db8edd97a4fdf0d546ad00f4168574.jpg)</a>
+
