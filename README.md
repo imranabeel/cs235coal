@@ -4,7 +4,7 @@
 
 ## Instructors 
   
->Engr. Taufique ur Rehamn  
+>Engr. Taufique ur Rehman  
  
 >Engr. Imran Abeel  
  
