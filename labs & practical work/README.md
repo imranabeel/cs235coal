@@ -4,12 +4,14 @@
     We emphasis greatly on the paractical work in order to understand the working of all component in any digital system.
     
  ____
- # Hardware & simulation resources: A way forward
+ # Lab resources: A way forward
  
  > We will use software resources listed below (can be updated as the course progresses). These resources will help you develop
  understanding of the code on real-world hardware. 
  
   >> + Tinkercad (circuit simulation)
+  >> + VSCode + Platformio (extension inside vscode)
+  >> + ESP32 development board
   >> + ...
   
   <img src="https://octodex.github.com/images/stormtroopocat.jpg" width="200" height="200" />
