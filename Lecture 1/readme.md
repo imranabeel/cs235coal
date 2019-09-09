@@ -20,12 +20,12 @@ ___
 
 # Von Newmann Architecture <https://en.wikipedia.org/wiki/Von_Neumann_architecture>
 
-<a href="http://google.com.au/" rel="">![Foo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Von_Neumann_Architecture.svg/1200px-Von_Neumann_Architecture.svg.png)</a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Von_Neumann_Architecture.svg/1200px-Von_Neumann_Architecture.svg.png" rel="">![Foo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Von_Neumann_Architecture.svg/1200px-Von_Neumann_Architecture.svg.png)</a>
 
 
 
 # Harvard Architecture <https://en.wikipedia.org/wiki/Harvard_architecture>
 
-<a href="http://google.com.au/" rel="">![Foo](
+<a href="https://upload.wikimedia.org/wikipedia/commons/3/3f/Harvard_architecture.svg" rel="">![Foo](
 https://upload.wikimedia.org/wikipedia/commons/3/3f/Harvard_architecture.svg)</a>
 
