@@ -14,9 +14,8 @@
   
   <img src="https://octodex.github.com/images/stormtroopocat.jpg" width="200" height="200" />
   ""Don't panic: We will guide you thoughout the course."" 
-<a href="https://2.bp.blogspot.com/-oDMOD6pVAGM/Wat-um2m9pI/AAAAAAAAGrQ/pUqP_jJXBrcZ6hzRPXEYXqvoghw1QCJ5QCLcBGAs/s1600/ice_screenshot_20170903-091828.jpeg" rel="">![Foo](
-https://2.bp.blogspot.com/-oDMOD6pVAGM/Wat-um2m9pI/AAAAAAAAGrQ/pUqP_jJXBrcZ6hzRPXEYXqvoghw1QCJ5QCLcBGAs/s1600/ice_screenshot_20170903-091828.jpeg)</a>
- ----
+  
+----
 # TinkerCAD:
 
 You can join the class using the instructions and class code below.
@@ -31,8 +30,12 @@ You can join the class using the instructions and class code below.
         >>> BSCS8C: VKWJQ71FI2DI
       + Enter your Full name as per CMS
       + Select circuits in drop down menu if not selected
-<a href="https://2.bp.blogspot.com/-oDMOD6pVAGM/Wat-um2m9pI/AAAAAAAAGrQ/pUqP_jJXBrcZ6hzRPXEYXqvoghw1QCJ5QCLcBGAs/s1600/ice_screenshot_20170903-091828.jpeg" rel="">![Foo](
-https://2.bp.blogspot.com/-oDMOD6pVAGM/Wat-um2m9pI/AAAAAAAAGrQ/pUqP_jJXBrcZ6hzRPXEYXqvoghw1QCJ5QCLcBGAs/s1600/ice_screenshot_20170903-091828.jpeg)</a>
+____      
+<a href="https://www.tinkercad.com/learn/circuits/learning" rel="">![Foo](
+https://github.com/tinkerslab/cs235coal/blob/master/labs%20&%20practical%20work/bscs8c%20tinkercad%20code.png?raw=true)</a>
+____
+<a href="https://www.tinkercad.com/learn/circuits/learning" rel="">![Foo](
+https://github.com/tinkerslab/cs235coal/blob/master/labs%20&%20practical%20work/select%20circuit.png?raw=true)</a>
 
 ____
 + Start going through the lessons. (You won't understand the code at first. but we are planning to explain that in labs.)
