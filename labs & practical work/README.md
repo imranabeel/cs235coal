@@ -37,9 +37,16 @@ You can join the class using the instructions and class code below.
       + You don't need to worry about code syntax and artitecture at begineer level. 
 ____
 # Online learning resources:
-1.  ### Udemy course titled "Arduino Programming and Simulation without Coding" is a good resource. We highly recommend this 1.5hrs course.
+1.  ### Udemy course titled "Arduino Programming and Simulation without Coding" is a good resource and is first reading assignment. We highly recommend this 1.5hrs course.
 + Link for the course:
 > <https://www.udemy.com/course/arduino-programming-and-simulation-without-coding/>
+
+<!--- 
+2.  ### Another Udemy course titled "AArduino Workshop 2018 | A step-by-step Arduino how-to guide" is second reading assignment. 
++ Link for the course:
+> <https://www.udemy.com/course/arduino-workshop-step-by-step-guide/>
+
+--->
 ____   
 <a href="https://www.tinkercad.com › things › eLrPl4KgIF1-servo-motor" rel="">![Foo](
 https://github.com/tinkerslab/cs235coal/blob/master/labs%20&%20practical%20work/tinkercad%20servo%20animatin.gif?raw=truee)</a>
