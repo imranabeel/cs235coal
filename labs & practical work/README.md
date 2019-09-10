@@ -6,11 +6,11 @@
  ____
  # Lab resources: A way forward
  
- > We will use software resources listed below (can be updated as the course progresses). These resources will help you develop
- understanding of the code on real-world hardware. 
+ > We will use software resources listed below (will be updated as the course progresses). These resources will help you develop
+ understanding of any digital system in real-world applications. 
  
   >> + Tinkercad (circuit simulation)
-  >> + VSCode + Platformio (extension inside vscode)
+  >> + Arduino IDE or VSCode + Platformio (extension inside vscode)
   >> + ESP32 development board
   >> + ...
   
@@ -35,6 +35,11 @@ You can join the class using the instructions and class code below.
       + Select circuits in drop down menu if not selected already.
       + You will automatically see begineer lessons to get you familiarized with the website. 
       + You don't need to worry about code syntax and artitecture at begineer level. 
+____
+# Online learning resources:
++ ### Udemy course titled "Arduino Programming and Simulation without Coding" is a good resource. We recommend this 1.5hrs course.
++ Link for the course:
+<https://www.udemy.com/course/arduino-programming-and-simulation-without-coding/>
 ____   
 <a href="https://www.tinkercad.com › things › eLrPl4KgIF1-servo-motor" rel="">![Foo](
 https://github.com/tinkerslab/cs235coal/blob/master/labs%20&%20practical%20work/tinkercad%20servo%20animatin.gif?raw=truee)</a>
