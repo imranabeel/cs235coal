@@ -37,7 +37,7 @@ You can join the class using the instructions and class code below.
       + You don't need to worry about code syntax and artitecture at begineer level. 
 ____
 # Online learning resources:
-+ ### Udemy course titled "Arduino Programming and Simulation without Coding" is a good resource. We recommend this 1.5hrs course.
++ ### Udemy course titled "Arduino Programming and Simulation without Coding" is a good resource. We highly recommend this 1.5hrs course.
 + Link for the course:
 <https://www.udemy.com/course/arduino-programming-and-simulation-without-coding/>
 ____   
