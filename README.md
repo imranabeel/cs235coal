@@ -5,10 +5,8 @@
 ## Instructors: 
   
 > ## Engr. Taufique ur Rehman (AB)  
->> ### Engr. Kalim Ullah (Lab Engr.)
- 
 > ## Engr. Imran Abeel (C)
->> ### Engr. Arooj Nawaz (Lab Engr.)
+>> ### Engr. Qurat ul Ain (Lab Engr.)
  
 ## Objectives of the Course 
 
