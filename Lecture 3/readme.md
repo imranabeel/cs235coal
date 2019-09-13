@@ -66,6 +66,13 @@ ____
 
 > <img src="Overlapping_realmode_segments.svg"/>
 
+# Paging and Virtual Memory:
+
+> <img src="Paging and Virtual Memory.gif"/>
+
+# Paging address translation:
+
+> <img src="paging_address_translation.gif"/>
 
 
 # Reference: 
