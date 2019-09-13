@@ -9,14 +9,64 @@
 > <img src="memory model page.png"  />
 
 ____
+# Protected Mode Memory Addressing:
+> Segment register contains a selector that selects a descriptor from the descriptor table.
+> The descriptor contains information about the segment, e.g., it's base address, length and access rights.
+> The offset can be 32-bits.
+
+> <img src="Protected Mode Memory Addressing.gif"  />
+
+## Segment Descriptors in Protected Mode:
+
+> <img src="Segment Descriptors in Protected Mode.gif"  />
+
+## Segment Registers in Protected Mode:
+> The 13 bit descriptor index selects one of up to 8K descriptors in either the GDT and LDT, as specified by the TI bit.
+
+>> Therefore, these 14 bits allows access to 16K 8-byte descriptors.
+
+> <img src="Segment Registers in Protected Mode.gif"  />
+
+## Segmentation Address Translation:
+> + Programmer invisible registers:
+>> - The other registers enclosed by the red-dotted line are part of the descriptor cache.
+>>> * The cache is used to reduce the number of actual memory references needed to construct the physical address.
+ 
+
+>> - There is one cache register for each of the 6 segment registers, CS, DS, etc. and the LDTR (Local Descriptor Table Register) and TR (Task Register) selectors.
+ 
+
+>>> * The base address, limit and access rights of the descriptor are loaded from memory every time the corresponding selector changes.
+ 
+
+>> - The LDTR and TR selectors refer to special system descriptors in the GDT.
+
+>>> * These registers provide hardware acceleration support for task switching.
+ 
+
+>> - Let's first consider how LDTs are used to extend the address space of individual tasks.
+
+> <img src="Segmentation Address Translation.gif" /> 
+
+## Segmentation Address Translation:
+> <img src="Segmentation Address Translation2.gif" /> 
 
 
-# Segment and Flat Memory models
 
-> <img src="https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-from-2018-05-10-09-52-11.png"/>
-
-# Intel 8086 memory map
-
-<img src="https://slideplayer.com/slide/5199571/16/images/16/The+8086+memory-map+ROM-BIOS+0xF0000+%E2%80%93+0xFFFFF+Standard+parts+of+the.jpg" width="600" height="450" />
+## Local Descriptor Tables:
+The LDTR selector indexes a GDT system descriptor describing the segment containing the LDT while the cache stores the actual LDT descriptor.
+> <img src="Local Descriptor Tables.gif" /> 
+> 
 
 
+____
+
+
+# 80286 protected mode example: 
+
+> <img src="Overlapping_realmode_segments.svg"/>
+
+
+
+# Reference: 
+<http://ece-research.unm.edu/jimp/310/slides/micro_arch2.html>
