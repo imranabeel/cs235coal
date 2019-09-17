@@ -6,7 +6,7 @@
   
 > ## Engr. Taufique ur Rehman (AB)  
 > ## Engr. Imran Abeel (C)
->> ### Engr. Qurat ul Ain (Lab Engr.)
+>> ### Engr. Qurat ul Ain (Lab Engr)
  
 ## Objectives of the Course 
 
