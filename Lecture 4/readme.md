@@ -4,7 +4,6 @@
 --->
 
 > <img src="addressing modes.png"  />
-
 ____
 
 # 1. Load and store operation:
@@ -33,7 +32,6 @@ _____
 # Addressing modes examples:
 
 > <img src="https://i.stack.imgur.com/sIQbS.png" />
-
 
 reference: 
 <https://azeria-labs.com/memory-instructions-load-and-store-part-4/>
