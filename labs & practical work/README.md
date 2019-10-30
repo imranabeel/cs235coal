@@ -18,7 +18,7 @@
   ""Don't panic: We will guide you thoughout the course."" 
   
 ----
-# TinkerCAD:
+# Assignment 1: TinkerCAD:
 
 You can join the class using the instructions and class code below.
 
@@ -27,10 +27,9 @@ You can join the class using the instructions and class code below.
       + Go to www.tinkercad.com
       + Tap or click the Join Class button
       + Enter the class code shown here
-        >>> BSCS8A: ...
-        >>> BSCS8B: ...
-        >>> BSCS8C: ...
-        (Class codes will be uploaded soon.)
+        >>> BSCS8 : VKWJQ71FI2DI 
+        >>> link: https://www.tinkercad.com/joinclass/VKWJQ71FI2DI
+    
       + Enter your Full name as per CMS.
       + Select circuits in drop down menu if not selected already.
       + You will automatically see begineer lessons to get you familiarized with the website. 
