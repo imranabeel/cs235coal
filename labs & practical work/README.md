@@ -11,7 +11,7 @@
  
   >> + Tinkercad (circuit simulation)
   >> + Arduino IDE or VSCode + Platformio (extension inside vscode)
-  >> + ESP32 development board
+  >> + ESP8266 development board
   >> + ...
   
   <img src="https://octodex.github.com/images/stormtroopocat.jpg" width="200" height="200" />
@@ -57,6 +57,9 @@ https://github.com/tinkerslab/cs235coal/blob/master/labs%20&%20practical%20work/
 ____
 <a href="https://www.tinkercad.com/learn/circuits/learning" rel="">![Foo](
 https://github.com/tinkerslab/cs235coal/blob/master/labs%20&%20practical%20work/select%20circuit.png?raw=true)</a>
+
+
+> <img src="tcad_example_fullcode.jpg"  />
 
 ____
 # Hardware: OH No...
