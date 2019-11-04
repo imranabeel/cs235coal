@@ -1,4 +1,4 @@
-# **Assignments and projects uploaded on lms and git-hub. please consult the assignmnet and semester project folder.** 
+# **Assignments and Semester project has been uploaded on LMS and github. please consult the assignmnet and semester project folder.** 
 
 # CS235-Computer Organization & Assembly language
 
