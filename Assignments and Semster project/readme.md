@@ -30,9 +30,9 @@ https://megaeshop.pk/esp8266-nodemcu-lua-wifi-development-board-based-on-the-cp2
 > Semester Project: **Deadline: 6th December 2019**
 (3-5 Member groups): Each member will be assessed individually although team work will also be assessed. The difficulty of the project should be according to the number of students in the group. Every Member should have an understanding of the working of the project and the technical knowledge. 
 
-+Design a project that is performing some meaningful operations (some examples are given below).
-+Deploy a websocket for collection of sensor data and controlling actuators
-+Deploy mesh network using multiple ESP8266 boards ()
-+Host & Deploy a website (HTML page) on ESP8266 for status of sensors and control button 
-+Any other Project of your choice.
++ Design a project that is performing some meaningful operations (some examples are given below).
++ Deploy a websocket for collection of sensor data and controlling actuators
++ Deploy mesh network using multiple ESP8266 boards ()
++ Host & Deploy a website (HTML page) on ESP8266 for status of sensors and control button 
++ Any other Project of your choice.
 
