@@ -8,6 +8,8 @@ The following assignments are meant for individual students. Although we encoura
 Understand the working of circuit diagram and coding for the Tutorials[0-15]/Examples given on the “tinkercad” website.  
 https://www.tinkercad.com/learn/project-gallery;collectionId=OMOZACHJ9IR8LRE
 Use the following link to access the class on tinkercad. Please register using the CMS name. 
+> Use the following nickname to register in class.
+<img src="nickname.jpg"/>
 
 **Assessment:** After the completion of the assignment 1, the students will be assessed based on their understanding of the hardware and the code using viva or quiz or practical demo.
 
