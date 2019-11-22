@@ -1,5 +1,3 @@
-# **Assignments and Semester project has been uploaded on LMS and github. please consult the assignmnet and semester project folder.** 
-
 # CS235-Computer Organization & Assembly language
 
 ## This repository will be updated throughout the semester with all the relevant material.
