@@ -4,3 +4,7 @@
 # IEEE to decimal conversion
 
 > [![](http://img.youtube.com/vi/LXF-wcoeT0o/0.jpg)](http://www.youtube.com/watch?v=LXF-wcoeT0o "")
+
+
+# FPU rounding: A good read
+<https://indepth.dev/how-to-round-binary-numbers/>
