@@ -4,7 +4,6 @@
 
 ## Instructors: 
   
-> ## Engr. Taufique ur Rehman (AB)  
 > ## Engr. M. Imran Abeel (C)
 >> ### Engr. Qurat ul Ain (Lab Engr)
  
