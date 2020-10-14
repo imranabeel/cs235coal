@@ -16,25 +16,7 @@
   
   <img src="https://octodex.github.com/images/stormtroopocat.jpg" width="200" height="200" />
   ""Don't panic: We will guide you thoughout the course."" 
-  
-----
-# Assignment 1: TinkerCAD:
 
-You can join the class using the instructions and class code below.
-
- > Student instructions:
-
-      + Go to www.tinkercad.com
-      + Tap or click the Join Class button
-      + Enter the class code shown here
-        >>> BSCS8 : VKWJQ71FI2DI 
-        >>> link: https://www.tinkercad.com/joinclass/VKWJQ71FI2DI
-    
-      + Enter your Full name as per CMS.
-      + Select circuits in drop down menu if not selected already.
-      + You will automatically see begineer lessons to get you familiarized with the website. 
-      + You don't need to worry about code syntax and artitecture at begineer level. 
-____
 # Online learning resources:
 1.  ### Udemy course titled "Arduino Programming and Simulation without Coding" is a good resource and is first reading assignment. We highly recommend this 1.5hrs course.
 + Link for the course:
@@ -50,9 +32,6 @@ ____
 <a href="https://www.tinkercad.com › things › eLrPl4KgIF1-servo-motor" rel="">![Foo](
 https://github.com/tinkerslab/cs235coal/blob/master/labs%20&%20practical%20work/tinkercad%20servo%20animatin.gif?raw=truee)</a>
 
-_____
-<a href="https://www.tinkercad.com/learn/circuits/learning" rel="">![Foo](
-https://github.com/tinkerslab/cs235coal/blob/master/labs%20&%20practical%20work/bscs8c%20tinkercad%20code.png?raw=true)</a>
 ____
 <a href="https://www.tinkercad.com/learn/circuits/learning" rel="">![Foo](
 https://github.com/tinkerslab/cs235coal/blob/master/labs%20&%20practical%20work/select%20circuit.png?raw=true)</a>
