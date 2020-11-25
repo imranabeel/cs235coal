@@ -13,3 +13,7 @@ ____
 > <img src="8088 pinout.png" />
 
 
+[![](http://img.youtube.com/vi/TjSpSTGV5M8/0.jpg)](http://www.youtube.com/watch?v=TjSpSTGV5M8 "")
+
+#
+[![](http://img.youtube.com/vi/CbBa-SEVHjc/0.jpg)](http://www.youtube.com/watch?v=CbBa-SEVHjc "")
